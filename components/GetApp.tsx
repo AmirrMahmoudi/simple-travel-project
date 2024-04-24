@@ -29,7 +29,7 @@ const GetApp = () => {
           </div>
         </div>
         <div className="flex flex-1 items-center justify-end">
-          <Image src="/phone.png" alt="phones" width={520} height={870} />
+          <Image src="/phones.png" alt="phones" width={520} height={870} />
         </div>
       </div>
     </section>
